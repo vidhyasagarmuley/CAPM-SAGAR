@@ -14,7 +14,7 @@ in the above snap
     5) got to Environment Variables and then you will get the required info as follows
     ![image](https://user-images.githubusercontent.com/51018126/137076645-0c86db1e-5737-4242-8d80-18e3b769436d.png)
       Note token url is nothing but url + outh/token = https://e8a6dd9ftrial.authentication.eu10.hana.ondemand.com/oauth/token
-    Now we have configured the dentination at cloud account then next step is we need to consume it in our application if we have seperate UI and Backend CAP project then we       need to consume it in both the apps.
+    Now we have configured the dentination at cloud account then next step is we need to consume it in our application if we have seperate UI and Backend CAP project then we need to consume it in both the apps.
 3) Goto your ui application in BAS add the code as follows.
     1) open MTA.yaml file under the modules->requires
     ![image](https://user-images.githubusercontent.com/51018126/137077381-c528b349-8cbe-4deb-9a8e-e20736d5fb00.png)
@@ -22,7 +22,7 @@ in the above snap
       ![image](https://user-images.githubusercontent.com/51018126/137077701-6a13d9cd-fc78-449f-8941-7d4021e6d9e8.png)
     2) goto xs-app.json file and add the destination as follows.
      ![image](https://user-images.githubusercontent.com/51018126/137077883-cba937e6-70b5-48ec-a3ec-fab374f707ed.png)
-     Now we have consumed the destiantion services in our UI application next step is we need to add the same in backend CAP project if we have separate backend project.
+  Now we have consumed the destiantion services in our UI application next step is we need to add the same in backend CAP project if we have separate backend project.
  4) Goto your backend CAP project in BAS add the code as follows.
      1) open MTA.yaml file under the service module->requires
         ![image](https://user-images.githubusercontent.com/51018126/137078363-27cc5311-3383-40cb-bc37-176de42ddb4e.png)
