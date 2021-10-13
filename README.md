@@ -31,7 +31,7 @@ after adding the destination name over there then we need to add the destination
 5) Now you have configured the destinations in BTP cloud and consumed the services as well just for the info how we need to add the service in manifest.json file in UI application as follows.
     ![image](https://user-images.githubusercontent.com/51018126/137079018-88f836ca-1e2b-4c23-9c1f-37261ec5c764.png)
     the uri path we need to mentio as like /browse/ in my case which is shows in above snap same like how we add the service uri for the onprimie system (sap/opu/data).
-# After performing all the steps now you can perform the crud operation in your application.
+# After performing all the steps now you can perform the crud operations in your application.
     
 
 
