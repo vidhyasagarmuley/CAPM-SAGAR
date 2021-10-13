@@ -7,7 +7,7 @@ if its an uua service then we need to configure the destinations as follows
 in the above snap 
     1) url: url is nothing but cap odata service url or cap node.js project url
     2) Authentication: OAuth2UserTokenExchange
-    3) Client ID, Client Secret and Token Service URL: client ID nothing but uua service client ID goto spec->applications
+    3) Client ID, Client Secret and Token Service URL: client ID nothing but uua service client ID goto space->applications
     ![image](https://user-images.githubusercontent.com/51018126/137075949-48775de6-dc9b-418a-8ba9-bc8a713ab0f3.png)
     4) then click on the application link
     ![image](https://user-images.githubusercontent.com/51018126/137076127-9d9595f8-97f7-4af6-8b1e-7216b2e54b14.png)
