@@ -1,4 +1,4 @@
-# How to create the destinations in BTP and consume the odata service from another MTA CAP project into ui5 application
+# 1) How to create the destinations in BTP and consume the odata service from another MTA CAP project into ui5 application
 1) We need to create the destination in BTP account as follows connectivity->detinations-->create new destination.
 2) please refer below snap.
 ![image](https://user-images.githubusercontent.com/51018126/137075112-aa3fe26e-449d-48c3-bea5-92454c5d7ae5.png)
@@ -32,6 +32,18 @@ after adding the destination name over there then we need to add the destination
     ![image](https://user-images.githubusercontent.com/51018126/137079018-88f836ca-1e2b-4c23-9c1f-37261ec5c764.png)
     the uri path we need to mentio as like /browse/ in my case which is shows in above snap same like how we add the service uri for the onprimie system (sap/opu/data).
 # After performing all the steps now you can perform the crud operations in your application.
+
+# 2) How to create the app router sap cap ui5 project and cap node.js project.
+   1) Right click MTA.yaml file in your project then click on creat MTA module from template as show below 
+    ![image](https://user-images.githubusercontent.com/51018126/137104136-20444a26-4633-4471-9457-eda790f2724a.png)
+   2) then select approuter configuration then click on start.
+   ![image](https://user-images.githubusercontent.com/51018126/137104458-39cf9d00-3dc3-4262-88f5-fa6385c77f5c.png)
+   3) Now you can see the project-approuter folder in your project, build the project and deploy it.
+    ![image](https://user-images.githubusercontent.com/51018126/137104814-294941cc-1e47-45d2-abb2-44a27cb98e55.png)
+
+
+
+
     
 
 
