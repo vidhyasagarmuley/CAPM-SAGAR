@@ -1,4 +1,4 @@
-#  How to create the destinations in BTP to consume the odata services from another MTA CAP project into ui5 application
+#  How to create the destinations in BTP and consume the odata services from another MTA CAP project into ui5 application
 1) We need to create the destination in BTP account as follows connectivity->detinations-->create new destination.
 2) please refer below snap.
 ![image](https://user-images.githubusercontent.com/51018126/137075112-aa3fe26e-449d-48c3-bea5-92454c5d7ae5.png)
