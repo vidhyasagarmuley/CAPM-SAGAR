@@ -11,4 +11,4 @@
    ![image](https://user-images.githubusercontent.com/51018126/137261305-7d41c40b-63c4-40b7-a091-a91ed912107a.png)
    ![image](https://user-images.githubusercontent.com/51018126/137261587-c935df04-2a9f-4b1d-bed2-3a2112007b6c.png)
 
-
+6) Reference link https://blogs.sap.com/2019/05/23/how-to-get-the-email-of-the-logged-in-user-in-cloud-foundry/
