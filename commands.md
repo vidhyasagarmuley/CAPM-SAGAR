@@ -4,3 +4,4 @@ cf e ibsoqualitydash-approuter --> this command will show the nevironment variab
 cf e ibsoqualitydash-approuter --export-json default-env.json ---> to export the environments variable in to json file.
 cf a -- > this will show list of apps deployed into BTP.
 cf marketplace --->  to get the service plans 
+cf undeploy cpapp --delete-service-keys --delete-services --> to undeploy the cap application
