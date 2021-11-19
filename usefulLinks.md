@@ -15,3 +15,6 @@ https://developers.sap.com/tutorials/cp-workflow-3-add-usertask-cf.html
 
 # Workflow Management video by anubhav
 https://www.youtube.com/watch?v=m4vD5H10t1U
+
+# Starting Workflow from Custom Fiori Application in Cloud Foundry
+https://blogs.sap.com/2020/08/27/starting-workflow-from-custom-fiori-application-in-cloud-foundry/
