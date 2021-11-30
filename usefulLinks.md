@@ -20,3 +20,6 @@ https://www.youtube.com/watch?v=m4vD5H10t1U
 https://blogs.sap.com/2020/08/27/starting-workflow-from-custom-fiori-application-in-cloud-foundry/
 # Configure a Technical Authentication to trigger SAP Cloud Platform Workflow Instances in the Cloud Foundry Environment
 https://blogs.sap.com/2020/08/29/configure-a-technical-authentication-to-trigger-sap-cloud-platform-workflow-instances-in-the-cloud-foundry-environment/
+
+# Exposing On Premise Data to SAP Cloud Foundry
+https://blogs.sap.com/2019/09/23/exposing-on-premise-data-to-sap-cloud-foundry/
