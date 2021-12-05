@@ -23,3 +23,6 @@ https://blogs.sap.com/2020/08/29/configure-a-technical-authentication-to-trigger
 
 # Exposing On Premise Data to SAP Cloud Foundry
 https://blogs.sap.com/2019/09/23/exposing-on-premise-data-to-sap-cloud-foundry/
+
+ How to get logged in user in SAP Cloud Platform (Cloud Foundry)
+# https://blogs.sap.com/2020/08/23/how-to-get-logged-in-user-in-sap-cloud-platform-cloud-foundry/
