@@ -28,3 +28,6 @@ https://blogs.sap.com/2019/09/23/exposing-on-premise-data-to-sap-cloud-foundry/
 # https://blogs.sap.com/2020/08/23/how-to-get-logged-in-user-in-sap-cloud-platform-cloud-foundry/
 SAP BTP Cloud foundry Job Scheduling for CAP based project
 # https://blogs.sap.com/2021/03/15/sap-btp-cloud-foundry-job-scheduling-for-cap-based-project/
+
+# Bar Code scanner application
+https://blogs.sap.com/2014/07/25/using-camera-as-barcode-scanner-on-your-mobile-in-sapui5-app/
