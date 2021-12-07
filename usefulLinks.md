@@ -31,3 +31,7 @@ SAP BTP Cloud foundry Job Scheduling for CAP based project
 
 # Bar Code scanner application
 https://blogs.sap.com/2014/07/25/using-camera-as-barcode-scanner-on-your-mobile-in-sapui5-app/
+
+# email notifcation in cloudfoundry
+https://answers.sap.com/questions/460795/workflow-mail-task-can't-send-email-correctly-beca.html
+
