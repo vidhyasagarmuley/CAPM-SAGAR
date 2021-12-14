@@ -34,4 +34,6 @@ https://blogs.sap.com/2014/07/25/using-camera-as-barcode-scanner-on-your-mobile-
 
 # email notifcation in cloudfoundry
 https://answers.sap.com/questions/460795/workflow-mail-task-can't-send-email-correctly-beca.html
+# Setting sizeLimit for html5 repository on Cloud Foundry
+https://blogs.sap.com/2020/07/20/setting-sizelimit-for-html5-repository-on-cloud-foundry/
 
