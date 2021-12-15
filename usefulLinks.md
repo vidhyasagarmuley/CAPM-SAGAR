@@ -36,4 +36,7 @@ https://blogs.sap.com/2014/07/25/using-camera-as-barcode-scanner-on-your-mobile-
 https://answers.sap.com/questions/460795/workflow-mail-task-can't-send-email-correctly-beca.html
 # Setting sizeLimit for html5 repository on Cloud Foundry
 https://blogs.sap.com/2020/07/20/setting-sizelimit-for-html5-repository-on-cloud-foundry/
+# Enhancing Custom Application as Workflow Task UI in Cloud Foundry --> Here you will get to know how to capture the user decisions performared by user(approve, reject)
+https://blogs.sap.com/2020/08/31/enhancing-custom-application-as-workflow-task-ui-in-cloud-foundry/
+https://help.sap.com/viewer/e157c391253b4ecd93647bf232d18a83/Cloud/en-US/9fd9395339e94143ac9ce9e693b06bd1.html?q=access%20decision
 
