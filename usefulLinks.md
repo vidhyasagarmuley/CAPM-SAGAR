@@ -40,3 +40,6 @@ https://blogs.sap.com/2020/07/20/setting-sizelimit-for-html5-repository-on-cloud
 https://blogs.sap.com/2020/08/31/enhancing-custom-application-as-workflow-task-ui-in-cloud-foundry/
 https://help.sap.com/viewer/e157c391253b4ecd93647bf232d18a83/Cloud/en-US/9fd9395339e94143ac9ce9e693b06bd1.html?q=access%20decision
 
+# Serverless SAP Fiori Apps on SAP BTP, Cloud Foundry environment
+https://blogs.sap.com/2020/10/02/serverless-sap-fiori-apps-in-sap-cloud-platform/
+
