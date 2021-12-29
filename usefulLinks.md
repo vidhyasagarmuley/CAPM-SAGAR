@@ -43,3 +43,7 @@ https://help.sap.com/viewer/e157c391253b4ecd93647bf232d18a83/Cloud/en-US/9fd9395
 # Serverless SAP Fiori Apps on SAP BTP, Cloud Foundry environment
 https://blogs.sap.com/2020/10/02/serverless-sap-fiori-apps-in-sap-cloud-platform/
 
+# Workflow From Scratch Document
+
+[workflow_sap_handson.pdf](https://github.com/vidhyasagarmuley/CAPM-SAGAR/files/7787604/workflow_sap_handson.pdf)
+
