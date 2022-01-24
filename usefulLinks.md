@@ -47,3 +47,6 @@ https://blogs.sap.com/2020/10/02/serverless-sap-fiori-apps-in-sap-cloud-platform
 
 [workflow_sap_handson.pdf](https://github.com/vidhyasagarmuley/CAPM-SAGAR/files/7787604/workflow_sap_handson.pdf)
 
+# Number Ranger Generator 
+https://blogs.sap.com/2020/07/04/cap-using-hana-db-sequence/
+
