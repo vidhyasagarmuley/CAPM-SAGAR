@@ -56,3 +56,6 @@ https://blogs.sap.com/2020/07/04/cap-using-hana-db-sequence/
 
 # App Router Configuration Document
 https://help.sap.com/docs/Launchpad_Service/8c8e1958338140699bd4811b37b82ece/c4deff7776b14c4695af3d7ccde57347.html
+
+# Use SAP Document Management service (DMS), Integration Option to Store Document Files
+https://blogs.sap.com/2022/07/06/use-sap-document-management-service-dms-integration-option-to-store-document-files/
