@@ -15,7 +15,7 @@ in the above snap
     ![image](https://user-images.githubusercontent.com/51018126/137076645-0c86db1e-5737-4242-8d80-18e3b769436d.png)
       Note token url is nothing but url + outh/token = https://e8a6dd9ftrial.authentication.eu10.hana.ondemand.com/oauth/token
     Now we have configured the dentination at cloud account then next step is we need to consume it in our application if we have seperate UI and Backend CAP project then we need to consume it in both the apps.
-3) Goto your ui application in BAS add the code as follows.
+3) Goto your ui application in BAS add the code as follows for standalone app router NA for managed app router.
     1) open MTA.yaml file under the modules->requires
     ![image](https://user-images.githubusercontent.com/51018126/137077381-c528b349-8cbe-4deb-9a8e-e20736d5fb00.png)
 after adding the destination name over there then we need to add the destinations services in resources section as show in the below snap.
